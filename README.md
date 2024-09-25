@@ -24,4 +24,4 @@ These instructions will get you a copy of the project up and running on your loc
 - An internet connection
 - A code editor (e.g. VS Code, Atom)
 
-<h1><a href="https://imdb-clone-by-harsh.onrender.com">link of website</a> </h1>
+<h1><a href="https://imdb-clone-react-js-j1tr.vercel.app/movies/top_rated">link of website</a> </h1>
